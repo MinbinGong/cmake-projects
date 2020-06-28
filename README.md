@@ -1,1 +1,1 @@
-# cmake-projects
+# cmake-projects for learning
